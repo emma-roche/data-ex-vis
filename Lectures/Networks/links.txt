@@ -1,0 +1,6 @@
+https://tflink.net/
+TFLink gateway uniquely provides comprehensive and highly accurate information on transcription factor - target gene interactions, nucleotide sequences and genomic locations of transcription factor binding sites for human and six model organisms: mouse (Mus musculus), rat (Rattus norvegicus), zebrafish (Danio rerio), fruit fly (Drosophila melanogaster), nematode (Caenorhabditis elegans), and yeast (Saccharomyces cerevisiae).
+
+https://www.ebi.ac.uk/training/online/courses/network-analysis-of-protein-interaction-data-an-introduction/types-of-biological-networks/
+Biological networks
+Different types of information can be represented in the shape of networks in order to model the cell (Figure 10). The meaning of the nodes and edges used in a network representation depends on the type of data used to build the network and this should be taken into account when analysing it.

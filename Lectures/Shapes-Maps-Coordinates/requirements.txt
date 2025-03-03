@@ -1,5 +1,5 @@
 pandas
-geopandas
+geopandas==0.14.4
 shapely
 folium
 numpy

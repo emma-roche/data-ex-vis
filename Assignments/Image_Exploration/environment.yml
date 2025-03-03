@@ -1,4 +1,4 @@
-name:  datavis_image_exp
+name:  datavis_image_exptt
 channels:
  - defaults
  - conda-forge
