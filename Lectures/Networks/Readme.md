@@ -11,5 +11,6 @@ conda activate /v/courses/2025-202425adatexplorcisvizualizci.public/env_networks
 
 You will still need to install the kernel descriptor to see it in the conda kernel list:
 ```bash
-jupyter-kernelspec install /v/courses/2025-202425adatexplorcisvizualizci.public/env_networks/ --name Networks --user
+python -m ipykernel install --user --name=dataexp_Networks
 ```
+pip install dash-cytoscape pyvis dash_reusable_components

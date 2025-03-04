@@ -4,3 +4,7 @@ TFLink gateway uniquely provides comprehensive and highly accurate information o
 https://www.ebi.ac.uk/training/online/courses/network-analysis-of-protein-interaction-data-an-introduction/types-of-biological-networks/
 Biological networks
 Different types of information can be represented in the shape of networks in order to model the cell (Figure 10). The meaning of the nodes and edges used in a network representation depends on the type of data used to build the network and this should be taken into account when analysing it.
+
+Gene Regulatory Networks
+https://www.youtube.com/watch?v=sn2ZSOhixcs&ab_channel=ComputationalMedicine
+https://www.youtube.com/watch?v=CggqRz1bvpk&ab_channel=EliseuAntonioKlosterFilho
