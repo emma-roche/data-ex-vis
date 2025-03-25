@@ -1,0 +1,10 @@
+pandas
+numpy
+ipykernel
+matplotlib
+python-dotenv
+scikit-learn
+nltk
+regex
+spacy
+textblob
