@@ -32,8 +32,8 @@ Each occasion starts with approximately a twenty minute of introduction into the
 7,  25.03.2025. **[Datacleaning, and Filtering, Reproducibility](Lectures/Datacleaning-reproducibility)** <br>
 8,  01.04.2025. **[Interactive Visualization](Lectures/Interactive_Visualization)** <br>
 9,  08.04.2025. **[REST services](Lectures/HTTP-REST-API)** <br>
-10, 15.04.2025. **[Working with large datasets](Lectures/LargeData)**<br>
-11, 29.04.2025. **[Chatbots and LLMs, Text to SQL](Lectures/Texttosql)**<br>
+10, 15.04.2025. **[Chatbots and LLMs, Text to SQL](Lectures/Texttosql)**<br>
+11, 29.04.2025. **[Working with large datasets](Lectures/LargeData)**<br>
 12, 06.05.2025. **Away for conference, no lecture** <br>
 13, 13.05.2025. **Consultation only** <br>
 
