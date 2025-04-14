@@ -1,0 +1,32 @@
+ [tool.poetry]
+name = "streaml_app"
+version = "0.1.0"
+description = "Streamlit app"
+authors = ["jegesm <david.visontai@ttk.elte.hu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<4"
+streamlit  = ">1.0"
+pandas = "<2.0"
+numpy = "^1.26.4"
+matplotlib = "^3.8.4"
+opencv-python = "^4.9.0.80"
+ipykernel = "^6.29.5"
+dotenv = "^0.9.9"
+sketch = "^0.5.2"
+nbformat = ">=4.2.0"
+panel = "^1.6.2"
+colorcet = "^3.1.0"
+datashader = "^0.17.0"
+multiprocess = "^0.70.17"
+flask = "<3.0.0"
+chainlit = "^2.4.400"
+langchain = "^0.3.23"
+langchain-core = "^0.3.51"
+langchain-community = "^0.3.21"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+

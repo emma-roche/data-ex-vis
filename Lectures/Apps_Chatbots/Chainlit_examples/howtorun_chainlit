@@ -1,0 +1,9 @@
+# How to run
+if [ "$#" -eq 0 ]; then
+    echo "Usage: howtorun_chainlit <script.py> "
+    exit 1
+fi
+
+ROOT_PATH="/${REPORT_URL::-1}"
+poetry run chainlit run --host=0.0.0.0 --port=9000 --root-path=$ROOT_PATH $1 -h
+

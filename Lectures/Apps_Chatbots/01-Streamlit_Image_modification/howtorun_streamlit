@@ -1,0 +1,11 @@
+# Streamlit 
+
+if [ "$#" -eq 0 ]; then
+    echo "Usage: howtorun_streamlit <script.py> "
+    exit 1
+fi
+
+echo "Visit the https://${SERVERNAME}/${REPORT_URL} endpoint on the server"
+
+poetry run python -m streamlit run streamlit_example.py --server.baseUrlPath=$REPORT_URL --server.port=9000 --server.address=0.0.0.0 --server.runOnSave=True --server.allowRunOnSave=True
+
