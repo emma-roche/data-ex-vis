@@ -39,24 +39,24 @@ if selected_tab == "Image Morphology":
         morph = st.radio("Morphology", ['erosion', 'dilation'])
         if morph == 'erosion':
             f, axs = plt.subplots(1, 2, figsize=(15, 10))
-            axs[0].set_title('intensity > 128')
+            axs[0].set_title('Original')
             axs[0].imshow(img, cmap='gray')
     
-            kernel = numpy.full((3, 3), 1)
+            kernel = numpy.full((10, 10), 1)
             er = cv2.erode(img, kernel, 1)
-            axs[1].set_title('after erosion')
+            axs[1].set_title('After erosion, kernel(10,10,1)')
             axs[1].imshow(er, cmap='gray');
             st.pyplot(f)
             
         if morph == 'dilation':
             f, axs = plt.subplots(1, 2, figsize=(15, 10))
     
-            axs[0].set_title('intensity > 128')
+            axs[0].set_title('Original')
             axs[0].imshow(img, cmap='gray')
     
-            kernel = numpy.full((3, 3), 1)
+            kernel = numpy.full((10, 10), 1)
             dil = cv2.dilate(img, kernel, 1)
-            axs[1].set_title('after dilation')
+            axs[1].set_title('after dilation, kernel(10,10,1) ')
             axs[1].imshow(dil, cmap='gray');
             st.pyplot(f)
     else:

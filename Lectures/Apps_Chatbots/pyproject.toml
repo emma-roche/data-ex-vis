@@ -25,6 +25,8 @@ chainlit = "^2.4.400"
 langchain = "^0.3.23"
 langchain-core = "^0.3.51"
 langchain-community = "^0.3.21"
+openai = "^1.76.0"
+duckduckgo-search = "^8.0.1"
 
 [build-system]
 requires = ["poetry-core"]
