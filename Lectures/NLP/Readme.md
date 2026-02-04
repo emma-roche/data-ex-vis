@@ -13,3 +13,8 @@ You will still need to install the kernel descriptor to see it in the conda kern
 ```bash
 python -m ipykernel install --user --name=dataexp_NLP
 ```
+
+### Some links for further reading
+
+* https://www.analyticsvidhya.com/blog/2021/05/topic-modelling-in-natural-language-processing/
+

@@ -1,5 +1,5 @@
 # Course material for Data Exploration and Visualisation 
-### 2025 spring semester
+### 2026 spring semester
 
 This course is part of the [Scientific Data Analytics and Modelling Programme](https://datascience.elte.hu/en/Default.aspx#top).
 The aim of the course is that students gain practical skills in **accessing large databases/datasets**, handling **data stored in different formats**, **exploring/cleaning these data** and **presenting** the gathered information. During the course students will come across databases used in various scientific fields. Completing of the several projects allows students to gain useful experiences that will give a firm foundation for later courses on theoretical datamining and advanced computing laboratories.
@@ -22,20 +22,21 @@ Prerequisites: 	programming in either **python**, **R** - using Jupyter notebook
 Each occasion starts with approximately a twenty minute of introduction into the current topic. After that everyone can work on the assignments and the consultants will be available for help with the any related problems and questions. For those who lack experience in either programming or data analysis it is highly recommended to attend the lecture and practice sessions. There are many tricks and tips that can be learned much quicker from personal discussions.
 
 ### The schedule of the course 
-1,  11.02.2025. **[Introduction to K8plex Edu](https://k8plex-edu.elte.hu/hub)**, **[Jupyter Notebooks](https://jupyter.org/)**, **Requirements for the course**,
+1,  11.02.2026. **[Introduction to K8plex Edu](https://k8plex-edu.elte.hu/hub)**, **[Jupyter Notebooks](https://jupyter.org/)**, **Requirements for the course**,
                 **[Timeseries analysis](Lectures/Timeseries/02-Timeseries.pdf)** and **[USGS water discharge statistics](Assignments/Timeseries)**<br>
-2,  18.02.2025. **[Maps, shapes, coordinates](Lectures/Shapes-Maps-Coordinates)** <br>
-3,  25.02.2025. **[Image exploration](Lectures/Image_Exploration)**  <br>
-4,  04.03.2025. **[Network exploration](Lectures/Networks)** <br>
-5,  11.03.2025. **[SQL queries](Lectures/SQL)** <br>
-6,  18.03.2025. **[Natural Language Processing](Lectures/NLP)** <br>
-7,  25.03.2025. **[Datacleaning, and Filtering, Reproducibility](Lectures/Datacleaning-reproducibility)** <br>
-8,  01.04.2025. **[Interactive Visualization](Lectures/Interactive_Visualization)** <br>
-9,  08.04.2025. **[REST services](Lectures/HTTP-REST-API)** <br>
-10, 15.04.2025. **[Chatbots and LLMs, Text to SQL](Lectures/Texttosql)**<br>
-11, 29.04.2025. **[Working with large datasets](Lectures/LargeData)**<br>
-12, 06.05.2025. **Away for conference, no lecture** <br>
-13, 13.05.2025. **Consultation only** <br>
+2,  18.02.2026. **[Maps, shapes, coordinates](Lectures/Shapes-Maps-Coordinates)** <br>
+3,  25.02.2026. **[Image exploration](Lectures/Image_Exploration)**  <br>
+4,  04.03.2026. **[Network exploration](Lectures/Networks)** <br>
+5,  11.03.2026. **[SQL queries](Lectures/SQL)** <br>
+6,  18.03.2026. **[Natural Language Processing](Lectures/NLP)** <br>
+7,  25.03.2026. **[Datacleaning, and Filtering, Reproducibility](Lectures/Datacleaning-reproducibility)** <br>
+8,  08.04.2026. **[Interactive Visualization](Lectures/Interactive_Visualization)** <br>
+9,  15.04.2026. **[REST services](Lectures/HTTP-REST-API)** <br>
+9,  15.04.2026. **[Workshop](Lectures/HTTP-REST-API)** <br>
+10, 22.04.2026. **[Chatbots and LLMs, Text to SQL](Lectures/Texttosql) and Student demonstrations**<br>
+11, 29.04.2026. **[Working with large datasets](Lectures/LargeData) and Student demonstrations**<br>
+12, 06.05.2026. **Student demonstrations** <br>
+13, 13.05.2026. **Student demonstrations** <br>
 
 <!-- **[NoSQL - Elasticsearch and Kibana, GraphQL](Lectures/L-NoSQL-ES)** -->
 
@@ -93,12 +94,18 @@ In case there is any problem with the portal you can run a notebook server local
 ### Grading
 
 Each assignment will be corrected after submission and a maximum of **20 points** will be given for it. **10** for all the **completed tasks**, **10** for the **quality** of the submitted report (look, clarity and comments). 
+You can get extra points for passive and active roles:
+
+* 10 pts for attending a *special* lecture (given by either Aniko Mentes, Orsolya Pipek, Csaba Kiss, or Jozsef Steger)
+* 20 pts for presenting the solution for one of the assignments (all tasks completed, with explanation, not longer than 10m)
+* 20 pts for attending The Workshop
+  
 The final grades will be given according to the following point system:<br>
-0 - 50: failed<br>
-51 - 70: 2<br>
-71 - 94: 3<br>
-95 - 115: 4<br>
-116 - : 5<br>
+0 - 70: failed<br>
+71 - 90: 2<br>
+91 - 120: 3<br>
+121 - 159: 4<br>
+160 - : 5<br>
 
 ### Folder structure of the working environment
 

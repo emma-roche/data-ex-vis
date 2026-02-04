@@ -5,5 +5,5 @@ ipykernel
 matplotlib
 opencv
 python-dotenv
-sklearn
-skimage
+scikit-klearn
+scikit-image
