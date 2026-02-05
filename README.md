@@ -9,7 +9,7 @@ There is a useful tutorial into python and some data transformation/analysis met
 
 During the course every sample code will be shown in **jupyter notebooks**, which can be accessed on the [K8plex Edu platform](https://k8plex-edu.elte.hu) and in this Github repository.
 
-The course is held in the **North Building** in computer lab **5.56** every **Tuesday between 12:15-14:45**.
+The course is held in the **North Building** in computer lab **5.56** every **Wednesday between 12:15-13:45**.
   
 #### Course info
 Neptun code: 	**dsexplorf20vm** <br>
@@ -19,24 +19,25 @@ Type: 	Lecture + Practice <br>
 Credit points: 	6 <br>
 Prerequisites: 	programming in either **python**, **R** - using Jupyter notebooks or RMarkdown<br>
 
-Each occasion starts with approximately a twenty minute of introduction into the current topic. After that everyone can work on the assignments and the consultants will be available for help with the any related problems and questions. For those who lack experience in either programming or data analysis it is highly recommended to attend the lecture and practice sessions. There are many tricks and tips that can be learned much quicker from personal discussions.
+Most of the occasions will begin with an approximately a twenty minute of introduction into the current topic. After that everyone can work on the assignments and the consultants will be available for help with the any related problems and questions. For those who lack experience in either programming or data analysis it is highly recommended to attend the lecture and practice sessions. There are many tricks and tips that can be learned much quicker from personal discussions.
 
 ### The schedule of the course 
-1,  11.02.2026. **[Introduction to K8plex Edu](https://k8plex-edu.elte.hu/hub)**, **[Jupyter Notebooks](https://jupyter.org/)**, **Requirements for the course**,
-                **[Timeseries analysis](Lectures/Timeseries/02-Timeseries.pdf)** and **[USGS water discharge statistics](Assignments/Timeseries)**<br>
-2,  18.02.2026. **[Maps, shapes, coordinates](Lectures/Shapes-Maps-Coordinates)** <br>
-3,  25.02.2026. **[Image exploration](Lectures/Image_Exploration)**  <br>
-4,  04.03.2026. **[Network exploration](Lectures/Networks)** <br>
-5,  11.03.2026. **[SQL queries](Lectures/SQL)** <br>
-6,  18.03.2026. **[Natural Language Processing](Lectures/NLP)** <br>
-7,  25.03.2026. **[Datacleaning, and Filtering, Reproducibility](Lectures/Datacleaning-reproducibility)** <br>
-8,  08.04.2026. **[Interactive Visualization](Lectures/Interactive_Visualization)** <br>
-9,  15.04.2026. **[REST services](Lectures/HTTP-REST-API)** <br>
-9,  15.04.2026. **[Workshop](Lectures/HTTP-REST-API)** <br>
-10, 22.04.2026. **[Chatbots and LLMs, Text to SQL](Lectures/Texttosql) and Student demonstrations**<br>
-11, 29.04.2026. **[Working with large datasets](Lectures/LargeData) and Student demonstrations**<br>
-12, 06.05.2026. **Student demonstrations** <br>
-13, 13.05.2026. **Student demonstrations** <br>
+1,  11.02.2026. **[Introduction to K8plex Edu](https://k8plex-edu.elte.hu/)**, **[Jupyter Notebooks](https://jupyter.org/)**, **Requirements for the course**,<br>
+                 **[Datacleaning, and Filtering, Reproducibility](Lectures/Datacleaning-reproducibility)**<br>
+2,  18.02.2026. **[Image exploration](Lectures/Image_Exploration)** <br>
+3,  25.02.2026. **[Interactive Visualization](Lectures/Interactive_Visualization)** <br>
+4,  04.03.2026. **[Maps, shapes, coordinates](Lectures/Shapes-Maps-Coordinates)**<br>
+5,  11.03.2026. **[Network exploration](Lectures/Networks)** <br>
+6,  18.03.2026. **[Natural Language Processing](Lectures/NLP)**, **[REST services](Lectures/HTTP-REST-API)**, MCP servers, Vibe coding/exploration <br>
+7,  25.03.2026. (Orsolya Pipek) **TBA** <br>
+8,  08.04.2026.  (Anikó Mentes) **[SQL queries](Lectures/SQL)** Basics of SQL, databases, tutorial on the Basketball database<br>
+9,  15.04.2026. (Anikó Mentes) **[SQL queries](Lectures/SQL)**
+Hands-on tutorial on a scientific database CoVeo or Sewage (working in groups of two), AI assisted exploration
+ <br>
+10, 22.04.2026. (Orsolya Pipek) **TBA**<br>
+11, 29.04.2026. (Csaba Kiss) **TBA**<br>
+12, 06.05.2026. (József Stéger) **[Timeseries analysis](Lectures/Timeseries/02-Timeseries.pdf)** <br>
+13, 13.05.2026. **Workshop and Student demonstrations** <br>
 
 <!-- **[NoSQL - Elasticsearch and Kibana, GraphQL](Lectures/L-NoSQL-ES)** -->
 
@@ -87,7 +88,7 @@ The submitted results should look like a **report**, which can be generated from
 The assignments/projects will be released in the first couple of weeks, which you have to submit after the end of the course **17th June 1PM (this is the last deadline)**. Each submitted assignment will be corrected and a feedback will be given. After that you may resubmit your assignment **once more** but before the final deadline.
 
 ### Where to work on the assignments?
-https://k8plex-edu.elte.hu/hub is where the notebooks will be handed out. It is available for all students with a valid **Neptun** or **caesar** account. Once you launch your environment you will find a folder with the course material. The notebooks will be available in this Github repository as well.
+https://k8plex-edu.elte.hu/ is where the notebooks will be handed out. It is available for all students with a valid **Neptun** or **caesar** account. Once you launch your environment you will find a folder with the course material. The notebooks will be available in this Github repository as well.
 We will explain how to use the portal on the first lecture.
 In case there is any problem with the portal you can run a notebook server locally on any other computer and upload your work later.
 
@@ -96,8 +97,8 @@ In case there is any problem with the portal you can run a notebook server local
 Each assignment will be corrected after submission and a maximum of **20 points** will be given for it. **10** for all the **completed tasks**, **10** for the **quality** of the submitted report (look, clarity and comments). 
 You can get extra points for passive and active roles:
 
-* 10 pts for attending a *special* lecture (given by either Aniko Mentes, Orsolya Pipek, Csaba Kiss, or Jozsef Steger)
-* 20 pts for presenting the solution for one of the assignments (all tasks completed, with explanation, not longer than 10m)
+* 10 pts for attending a *special* lecture (given by either Aniko Mentes, Orsolya Pipek, Csaba Kiss and Jozsef Steger)
+* 20 pts (only once) for presenting the solution for one of the assignments (all tasks completed, with explanation, not longer than 10m)
 * 20 pts for attending The Workshop
   
 The final grades will be given according to the following point system:<br>

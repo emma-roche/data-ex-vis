@@ -1,3 +1,19 @@
+# 🛠 Fundamentals & Data Integrity
+
+### Data Cleaning and Filtering
+
+* Tidy Data: Understanding observations (rows) vs. variables (columns).
+* Imputation: Strategies for handling missing values (Mean, Median, Mode, or KNN).
+* Outlier Detection: Using Z-scores or Interquartile Range (IQR).
+* Data Constraints: Validating types (strings vs. floats) and range checks.
+
+### Reproducibility
+
+* Version Control: Using Git/GitHub for tracking code changes.
+* Environment Management: Using Docker, Conda, or requirements.txt.
+* Literate Programming: Combining prose and code (Jupyter Notebooks, Quarto).
+* Seed Setting: Ensuring stochastic processes (like random splits) are repeatable.
+
 ## Conda enviroment
 
 There is an already prepared environment this time, which requires still one extra step from you to able to use it in notebooks.
