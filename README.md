@@ -34,8 +34,8 @@ Most of the occasions will begin with an approximately a twenty minute of introd
 9,  15.04.2026. (Anikó Mentes) **[SQL queries](Lectures/SQL)**
 Hands-on tutorial on a scientific database CoVeo or Sewage (working in groups of two), AI assisted exploration
  <br>
-10, 22.04.2026. (Orsolya Pipek) **TBA**<br>
-11, 29.04.2026. (Csaba Kiss) **TBA**<br>
+10, 22.04.2026. (Orsolya Pipek) **TBA** (Bioinformatics)<br>
+11, 29.04.2026. (Csaba Kiss) **TBA** (Bioinformatics) <br>
 12, 06.05.2026. (József Stéger) **[Timeseries analysis](Lectures/Timeseries/02-Timeseries.pdf)** <br>
 13, 13.05.2026. **Workshop and Student demonstrations** <br>
 
