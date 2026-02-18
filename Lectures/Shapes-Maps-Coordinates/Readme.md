@@ -4,8 +4,7 @@
 There is an already installed uv environment for this topic.
 In order to use it in Jupyter Notebook/Lab, you need to add it as a kernel. To do this, run the following command:
 ```# activate the environment
-cd /v/courses/
-source .venv/bin/activate
+source /v/courses/2026-dataexplorationandvisualization2026.public/uv_envs/dataexp_shapesmaps/bin/activate
 # install the kernel
 python -m ipykernel install --user --name=dataexp_shapesmaps --display-name "Python (dataexp_shapesmaps)"
 ```
